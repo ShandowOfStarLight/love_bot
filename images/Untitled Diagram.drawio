@@ -1,1 +1,194 @@
-<mxfile host="app.diagrams.net" modified="2020-11-14T07:49:02.755Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" version="13.9.8" etag="Fp8NMxZTHxkuzZETsvqB" type="github"><diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">3Vvbkps4EP0aP84UQuDLYzKX7MtWpWq2ajePDMiGGoxYIY/tfP1KIG5q2ZFtDKmdl5gGBDo63X1aTWb4aXv4xoI8/pNGJJ25TnSY4eeZ66L5Yin+kZZjZVkiZdiwJFIXtYa35CdRRkdZd0lEit6FnNKUJ3nfGNIsIyHv2QLG6L5/2Zqm/afmwYYAw1sYpND6dxLxWFnRfNWe+IMkm1g9eunOqxPvQfixYXSXqefNXLwu/6rT26AeS020iIOI7jsm/DLDT4xSXv3aHp5IKrGtYavuez1xtnlvRjJuc4Nb3fAZpDs19b9iRoJI2NRYBT/WqBT7ZJsGmTj6uo8TTt7yIJSn9oIE8MHq/k/CODl0TOpFvhG6JZwdxSUNbbxHv7pJ0Qa5ijb7dhHcpYIu7uDvL5QxUAu/aUZvJy9+qPmbsfABFgABcYOgoARALFwujQUPGH/jAZfGdZKmTzSlrLwaO+WfvJgz+kE6Z9ZrdQbC5l4Mm+P0QPMcgBk2QIYHQGxugVgkHEsdkvSd7l9aw9fSIE7ElCU/acYD8aCvcuaJcMUvabLJxMl3yjndyquz6Iv0bWGjOckqi4odSxPKr68KZXHdayJn8YzEUemeRE7BOQl/QXcsJD1eiIXeEHXVojLJyd2yRCbs1SDfaSJeqR0BaZ6BtCGqt1N3aSvYvJDVoi7AoiaRWC19YQdg7twxz2nfDbkmbx+Aukswy11BmBw05AnNRphukwPGmO7KwlOBe93LoRbQoZaWDsVIGvDks5+mbwGmBryDTE4LXmqL7TYQefz+TMB1iBmDCQiBCU9IhSWkQj3xCbgA1dAA+ewsdDCh3QBmjdw1mapLPcdAvcZojfqJRKZHwZXG6WpCIJGBgUD20Ac6kREF4sGxc1kuLyhOvzDW3tfvCWrxoxrw2myLAeUaAQ7Jd2cB7nnTCnAEwYD+d38Fji/FbW5WdyMIcOTdI2JNq8CxIbBhQ5rwLSPbob8qtR9fLMH9vmtYhpsrQgKChailAr+Yua4WQ8dU4AhWj2FMwo+Z3K+RSnwm60uMJH0ysm8VWTECEqOKcwRLLujF95FkJmcz1Lv1Wk2gyWCh1ghz598d2Y3hF+MK9OlqNRMb5gY2TFatubB4URxwyDbnRwAUi+n2fVdAZSD3ZMO7KwPk62EFEskkp85tEFljBauZI4Gx83J5EChZkJI1v5NaOCT8H0lRIUerox8lYc+RWZ4TCFW3Lfz6+Ec7jDz8TlgikCTM2gGa/kPHAdwLtceDGmPg2gnp4WagkqcppernLIeteQxFT0bvT0xO8wk1rIlHdQkwNo+09cWOb8Wja5bapkCZNJnV8E2QzCwaTnWRmyZl1V8BU7ck52fTF6OiJpZb2fh5dRqeC3KZthOC3MUjzGa+IZshfwCw/oe9JlOUMInvC7ONvlB6pfrrAKFveiFdjwwXIOonddY1Soo84GHcqf8ayd9Y9pR9lP0arrbLhi8CkDdhFYCh0g1ZUpK1g0JBzN2qOmxklJs3C8WtFZnr2vM2pJz+3oi3MlTPpl3lQZCCOvdcisloJ5Ked2AHSMwoKOLywPChhSnfGNobeLJ8gy1ysZEpJ6HSaiplv51PrtfnE14ZEg1kkzdAnvFs2mMX55m2NIF1yZ36QwY61rG2R0fPko5jNYj0zfSlFiJs+0N6sYT1gQYrlrTY5wxbLEGnbRpE9RKP1iBauNM2iDAsHHNGQ1IUJq3wS0XgXTp/rW7ynDEFgc3naRM1p3t7L+6Vey8eDE7W+yxjBacHTRh7+mdYttHpAemtF70hNVB4ekDacxSPButf2/QuOrS0kV/XJz0Dh+qY8ftyyF09asLFlkV6PIIjDViowUYMXGjQnJdV85Wt+dvDtV4I+/WoI3Tm8XRdHIVTT/kZGuh4ui4OrPnHwgZBbExfTY3W4RKH7cf+lVe2/6MCv/wH</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-18T03:04:58.890Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="jnDtyvxU2480qRZyrNAm" version="13.9.9" type="github">
+  <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
+    <mxGraphModel dx="1211" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Thread 1" style="swimlane;whiteSpace=wrap" parent="1" vertex="1" treatAsSingle="0">
+          <mxGeometry x="164.5" y="128" width="280" height="1352" as="geometry" />
+        </mxCell>
+        <mxCell id="vnExJpaLnfHo_oPysjU4-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="2" source="5" target="7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="2" vertex="1">
+          <mxGeometry x="100" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vnExJpaLnfHo_oPysjU4-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="2" source="7" target="8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="读取配置信息" style="" parent="2" vertex="1">
+          <mxGeometry x="60" y="110" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="缓存配置" style="" parent="2" vertex="1">
+          <mxGeometry x="60" y="512" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Thread 2" style="swimlane;whiteSpace=wrap" parent="1" vertex="1" treatAsSingle="0">
+          <mxGeometry x="444.5" y="128" width="405.5" height="1352" as="geometry" />
+        </mxCell>
+        <mxCell id="vnExJpaLnfHo_oPysjU4-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="3" source="13" target="15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="3" vertex="1">
+          <mxGeometry x="60" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vnExJpaLnfHo_oPysjU4-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3" source="15" target="16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="接收有效数据帧" style="" parent="3" vertex="1">
+          <mxGeometry x="20" y="110" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="添加至有效数据队列" style="" parent="3" vertex="1">
+          <mxGeometry x="20" y="220" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="队列是否为空" style="rhombus;fillColor=#ffffc0;strokeColor=#ff0000;" parent="3" vertex="1">
+          <mxGeometry x="150" y="225" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="yes" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#FF0000;exitX=0.5;exitY=0;endFill=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="3" source="21" target="15" edge="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="155" y="147.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="182" />
+              <mxPoint x="190" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="23" value="no" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0" parent="3" source="21" edge="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="190.5" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="3" source="16" target="21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vnExJpaLnfHo_oPysjU4-50" value="队列内数据是否过多" style="rhombus;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="3">
+          <mxGeometry x="150" y="322" width="80" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="vnExJpaLnfHo_oPysjU4-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="3" source="vnExJpaLnfHo_oPysjU4-53" target="15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vnExJpaLnfHo_oPysjU4-53" value="清空队列" style="" vertex="1" parent="3">
+          <mxGeometry x="240" y="110" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vnExJpaLnfHo_oPysjU4-51" value="yes" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#FF0000;exitX=1;exitY=0.5;endFill=1;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="3" source="vnExJpaLnfHo_oPysjU4-50" target="vnExJpaLnfHo_oPysjU4-53">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="285.5" y="182" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="286" y="282" />
+              <mxPoint x="265.5" y="172" />
+              <mxPoint x="255.5" y="172" />
+              <mxPoint x="255.5" y="232" />
+              <mxPoint x="295.5" y="299" />
+              <mxPoint x="295.5" y="297" />
+            </Array>
+            <mxPoint x="295.5" y="342" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vnExJpaLnfHo_oPysjU4-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="3" source="vnExJpaLnfHo_oPysjU4-60" target="vnExJpaLnfHo_oPysjU4-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vnExJpaLnfHo_oPysjU4-60" value="队列中取有效帧" style="" vertex="1" parent="3">
+          <mxGeometry x="135" y="422" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vnExJpaLnfHo_oPysjU4-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3" source="vnExJpaLnfHo_oPysjU4-59" target="vnExJpaLnfHo_oPysjU4-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vnExJpaLnfHo_oPysjU4-59" value="读取配置文件解析遥测" style="" vertex="1" parent="3">
+          <mxGeometry x="135" y="512" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vnExJpaLnfHo_oPysjU4-62" value="帧尾是否为完整遥测包" style="rhombus;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="3">
+          <mxGeometry x="150" y="612" width="80" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="vnExJpaLnfHo_oPysjU4-64" value="yes" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="3" source="vnExJpaLnfHo_oPysjU4-62" target="vnExJpaLnfHo_oPysjU4-59">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="321.5" y="456" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="321.5" y="542" />
+              <mxPoint x="321.5" y="578" />
+              <mxPoint x="301" y="468" />
+              <mxPoint x="291" y="468" />
+              <mxPoint x="291" y="528" />
+              <mxPoint x="331" y="595" />
+              <mxPoint x="331" y="593" />
+            </Array>
+            <mxPoint x="265.5" y="642" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vnExJpaLnfHo_oPysjU4-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3" source="vnExJpaLnfHo_oPysjU4-58" target="vnExJpaLnfHo_oPysjU4-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vnExJpaLnfHo_oPysjU4-58" value="帧尾不完整遥测包存入缓冲区" style="" vertex="1" parent="3">
+          <mxGeometry x="135" y="712" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vnExJpaLnfHo_oPysjU4-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="3" source="vnExJpaLnfHo_oPysjU4-57" target="vnExJpaLnfHo_oPysjU4-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vnExJpaLnfHo_oPysjU4-57" value="读取下一帧数据" style="" vertex="1" parent="3">
+          <mxGeometry x="135" y="802" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vnExJpaLnfHo_oPysjU4-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="3" source="vnExJpaLnfHo_oPysjU4-56" target="vnExJpaLnfHo_oPysjU4-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vnExJpaLnfHo_oPysjU4-56" value="与缓冲区拼接" style="" vertex="1" parent="3">
+          <mxGeometry x="135" y="892" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vnExJpaLnfHo_oPysjU4-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3" source="vnExJpaLnfHo_oPysjU4-69" target="vnExJpaLnfHo_oPysjU4-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vnExJpaLnfHo_oPysjU4-69" value="读配置文件解析参数" style="" vertex="1" parent="3">
+          <mxGeometry x="135" y="1072" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vnExJpaLnfHo_oPysjU4-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3" source="vnExJpaLnfHo_oPysjU4-68" target="vnExJpaLnfHo_oPysjU4-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vnExJpaLnfHo_oPysjU4-68" value="提取遥测包数据" style="" vertex="1" parent="3">
+          <mxGeometry x="135" y="982" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vnExJpaLnfHo_oPysjU4-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3" source="vnExJpaLnfHo_oPysjU4-72" target="vnExJpaLnfHo_oPysjU4-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vnExJpaLnfHo_oPysjU4-72" value="转换为protobuf格式" style="" vertex="1" parent="3">
+          <mxGeometry x="135" y="1162" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vnExJpaLnfHo_oPysjU4-73" value="输出" style="" vertex="1" parent="3">
+          <mxGeometry x="135" y="1252" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vnExJpaLnfHo_oPysjU4-55" value="no" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vnExJpaLnfHo_oPysjU4-50">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="635" y="550" as="targetPoint" />
+            <mxPoint x="650" y="540" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="635" y="570" />
+              <mxPoint x="635" y="600" />
+              <mxPoint x="635" y="530" />
+              <mxPoint x="640" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vnExJpaLnfHo_oPysjU4-66" value="no" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vnExJpaLnfHo_oPysjU4-62">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="635" y="840" as="targetPoint" />
+            <mxPoint x="650" y="820" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="635" y="840" />
+              <mxPoint x="635" y="810" />
+              <mxPoint x="650.5" y="892" />
+              <mxPoint x="650.5" y="922" />
+              <mxPoint x="650.5" y="852" />
+              <mxPoint x="655.5" y="822" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vnExJpaLnfHo_oPysjU4-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8" target="vnExJpaLnfHo_oPysjU4-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vnExJpaLnfHo_oPysjU4-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8" target="vnExJpaLnfHo_oPysjU4-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
